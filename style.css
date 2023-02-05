@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: flex-end;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -31,6 +37,8 @@ body {
     width: 100%;
     text-align: center;
 }
+
+
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;

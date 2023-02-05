@@ -1,29 +1,35 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Crowdfund Landing Page
 
-Submitted by: **Your Name Here**
+Submitted by: Ethan
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Crowdfund Landing Page is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
+A Last place section highlighting which game has the least funding
+
 * [ ] List anything else that you can get done to improve the app functionality!
+
+- Better mobile view. Currently when viewed on mobile devices, the website becomes
+extremely crowded and difficult to read
+- A way to select each game so you can get more information about it (currently only display select states)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/RRj0zeJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -36,9 +42,13 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Some of the challenges I faced was with the creating the new HTML elements. At first I was confused on where to begin but I looked up some additional reasources for reference as was able to figure it out from there. 
+
+I also struggled with the syntax for spread but again, I just had to look at some more examples to understand it functionality. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Ethan Pineda
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
